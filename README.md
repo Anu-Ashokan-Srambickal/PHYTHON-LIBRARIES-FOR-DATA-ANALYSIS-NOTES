@@ -1,11 +1,11 @@
 # PHYTHON-LIBRARIES-FOR-DATA-ANALYSIS-NOTES
 PHYTHON LIBRARIES FOR DATA ANALYSIS NOTES
 
-🔴 NUMPY
+🔴 NUMPY : https://numpy.org/devdocs/user/basics.html
 
-🔴 PANDAS
+🔴 PANDAS : https://pandas.pydata.org/docs/reference/io.html
 
-🔴 Matplotlib
+🔴 Matplotlib : https://matplotlib.org/stable/api/matplotlib_configuration_api.html
 
-🔴 Seaborn
+🔴 Seaborn : https://seaborn.pydata.org/generated/seaborn.objects.Plot.html
 
