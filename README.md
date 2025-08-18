@@ -2,4 +2,10 @@
 PHYTHON LIBRARIES FOR DATA ANALYSIS NOTES
 
 🔴 NUMPY
+
 🔴 PANDAS
+
+🔴 Matplotlib
+
+🔴 Seaborn
+
